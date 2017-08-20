@@ -1,6 +1,6 @@
 # -*-coding:utf-8-*-
 '''
-Created on 2016年7月13日
+Created on 7/13/2016
 
 @author: ghou
 '''
